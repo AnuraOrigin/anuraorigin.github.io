@@ -13,7 +13,7 @@ It includes his unified Truth-based structural philosophy, applied clarity syste
 - Full personal research & philosophy portfolio
 
 ## Website
-Live at: https://saurabhmisra.github.io
+Live at: https://anuraorigin.github.io
 
 ## Author
 **Saurabh Misra**  
